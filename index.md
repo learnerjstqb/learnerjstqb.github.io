@@ -4,7 +4,16 @@
 
 2019/4/14 開催の技術書典6 にて「テストアナリスト問題集」を頒布します。
 
+### 「テストアナリスト問題集」サポートページ
 
+[「テストアナリスト問題集」サポートページ](https://github.com/learnerjstqb/alta_workbook_support)では、
+
+* 頒布後に判明した誤植などの正誤表
+* ISTQB/ASTQBのサンプル問題をGoogle翻訳したテキスト
+
+の公開を予定しています。
+
+誤植などのIssue投稿も[「テストアナリスト問題集」サポートページ](https://github.com/learnerjstqb/alta_workbook_support)にて承ります。
 
 ## 「テストマネージャ試験対策勉強会」開催
 
