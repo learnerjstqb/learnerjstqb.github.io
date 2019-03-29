@@ -4,6 +4,10 @@
 
 2019/4/14 開催の技術書典6 にて「テストアナリスト問題集」を頒布します。
 
+![表紙](https://raw.githubusercontent.com/learnerjstqb/learnerjstqb.github.io/master/images/cover.png)
+![問題リストの一部](https://raw.githubusercontent.com/learnerjstqb/learnerjstqb.github.io/master/images/question_list.png)
+![問題のサンプル](https://raw.githubusercontent.com/learnerjstqb/learnerjstqb.github.io/master/images/question_sample.png)
+
 ### 「テストアナリスト問題集」サポートページ
 
 [「テストアナリスト問題集」サポートページ](https://github.com/learnerjstqb/alta_workbook_support)では、
