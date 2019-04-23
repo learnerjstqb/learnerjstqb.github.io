@@ -8,10 +8,12 @@
 
 ### オンラインでの頒布も開始しました。
 「ソフトウェアテスト問題集 JSTQB Advanced Level テストアナリスト」
+
 A4 72p 50問収録（シラバス全範囲網羅済み）
+
 電子版 ¥1000
 
-https://learner-jstqb-al.booth.pm/items/1328072
+[JSTQB Advanced Level 非公式問題集 頒布サイト](https://learner-jstqb-al.booth.pm/items/1328072)にてお買い求めいただけます。
 
 ### 「テストアナリスト問題集」サポートページ
 
@@ -37,5 +39,5 @@ https://learner-jstqb-al.booth.pm/items/1328072
 会場を借りる費用等として、500-1000円程度を想定。頂いた費用は会場代や設備利用費等に充当いたします。(参加者数により多少変更することがあります)
 
 #### 申し込みページ
-https://jstqb-al-exam.connpass.com/event/127951/
+[https://jstqb-al-exam.connpass.com/event/127951/](https://jstqb-al-exam.connpass.com/event/127951/)から申し込みができます。
 
