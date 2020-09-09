@@ -6,7 +6,7 @@
 
 最新のスケジュールは下記を御覧ください。
 
-https://jstqb-al-exam.connpass.com/event/
+[https://jstqb-al-exam.connpass.com/event/](https://jstqb-al-exam.connpass.com/event/)
 
 （他の主要なソフトウェアテストイベント等と重複した場合、日曜日に変更することがあります。）
 
