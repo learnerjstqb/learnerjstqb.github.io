@@ -1,44 +1,56 @@
 # JSTQB® Advanced Level 試験対策勉強会
 
-## 「テストアナリスト問題集」発刊
+## 勉強会のご案内
 
-2019/4/14 開催の技術書典6 にて「テストアナリスト問題集」を頒布しました。
+隔週土曜日 9:00〜17:00 で JSTQB Advanced Level 試験対策勉強会をオンライン開催しています。
 
-![表紙](https://raw.githubusercontent.com/learnerjstqb/learnerjstqb.github.io/master/images/cover.png)
+最新のスケジュールは下記を御覧ください。
 
-### オンラインでの頒布も開始しました。
-「ソフトウェアテスト問題集 JSTQB® Advanced Level テストアナリスト」
+https://jstqb-al-exam.connpass.com/event/
 
-A4 72p 50問収録（シラバス全範囲網羅済み）
+（他の主要なソフトウェアテストイベント等と重複した場合、日曜日に変更することがあります。）
 
-電子版 ¥1000
+## 新刊案内
 
-[JSTQB® Advanced Level 非公式問題集 頒布サイト](https://learner-jstqb-al.booth.pm/items/1328072)にてお買い求めいただけます。
+2020/9/12より開催される技術書典9にて「JSTQB®非認定 Foundation Level Extension アジャイルテスト担当者 ソフトウェアテスト問題集」を頒布します。
 
-### 「テストアナリスト問題集」サポートページ
+![アジャイルテスト担当者_表紙](https://raw.githubusercontent.com/learnerjstqb/learnerjstqb.github.io/master/images/FA_frontcover.jpg)
 
-[「テストアナリスト問題集」サポートページ](https://github.com/learnerjstqb/alta_workbook_support)では、
+## 既刊案内
+
+JSTQB®非認定 Advanced Level テストアナリスト問題集 - 初出 技術書典6
+
+![テストアナリスト_表紙](https://raw.githubusercontent.com/learnerjstqb/learnerjstqb.github.io/master/images/ta_frontcover.jpg)
+
+JSTQB®非認定 Advanced Level テストマネージャ問題集 - 初出 技術書典7
+
+![テストマネージャ_表紙](https://raw.githubusercontent.com/learnerjstqb/learnerjstqb.github.io/master/images/tm_frontcover.jpg)
+
+JSTQB®非認定 Advanced Level テクニカルテストアナリスト問題集 - 初出 技術書典8
+
+![テクニカルテストアナリスト_表紙](https://raw.githubusercontent.com/learnerjstqb/learnerjstqb.github.io/master/images/tta_frontcover.jpg)
+
+いずれも[JSTQB® Advanced Level 非公式問題集 頒布サイト](https://learner-jstqb-al.booth.pm/items/1328072)にてお買い求めいただけます。
+
+### サポートページ
+
+サポートページでは
 
 * 頒布後に判明した誤植などの正誤表
 * ISTQB®/ASTQB®のサンプル問題をGoogle翻訳したテキスト
 
 の公開を予定しています。
 
-誤植などのIssue投稿も[「テストアナリスト問題集」サポートページ](https://github.com/learnerjstqb/alta_workbook_support)にて承ります。
+誤植などのIssue投稿も下記サポートページにて承ります。
 
-## 「テストマネージャ試験対策勉強会」開催
+* [「テストアナリスト問題集」サポートページ](https://github.com/learnerjstqb/alta_workbook_support)
 
-2019/5/11 からテストマネージャ試験対策勉強会を開催します。
+* [「テストマネージャ問題集」サポートページ](https://github.com/learnerjstqb/altm_workbook_support)
 
-### (仮)第1回JSTQB® Advanced Level テストマネジャー試験対策勉強会
+* [「テクニカルテストアナリスト問題集」サポートページ](https://github.com/learnerjstqb/altta_workbook_support)
 
-#### 日時/場所
-2019/5/11(土) 13:00-17:00(予定) サンピアンかわさき／第５会議室
+* [その他の問題集サポートページ](https://github.com/learnerjstqb/software_testing_workbook_support)
 
-#### 参加費
-会場を借りる費用等として、500-1000円程度を想定。頂いた費用は会場代や設備利用費等に充当いたします。(参加者数により多少変更することがあります)
-
-#### 申し込みページ
-[https://jstqb-al-exam.connpass.com/event/127951/](https://jstqb-al-exam.connpass.com/event/127951/)から申し込みができます。
+## 商標等
 
 JSTQB®は特定非営利法人 ソフトウェアテスト技術振興協会の登録商標です。
