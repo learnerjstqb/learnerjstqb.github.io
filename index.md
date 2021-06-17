@@ -63,7 +63,7 @@
 
 JSTQB®非認定 Advanced Level Agile Technical Tester問題集
 
-![AgileTechnicalTester表紙](https://raw.githubusercontent.com/learnerjstqb/learnerjstqb.github.io/master/images/ATT_frontcover.jpg) 
+![AgileTechnicalTester表紙](https://raw.githubusercontent.com/learnerjstqb/learnerjstqb.github.io/master/images/ATT_frontcover.png) 
 
 ## 既刊案内
 
@@ -85,7 +85,7 @@ JSTQB®非認定 Foundation Level Extension アジャイルテスト担当者問
 
 JSTQB®非認定 Foundation Level Specialist Model-Based Tester問題集 - 初出 技術書典10
 
-![Model-Based_Tester_表紙](https://raw.githubusercontent.com/learnerjstqb/learnerjstqb.github.io/master/images/MBT_frontcover.jpg)
+![Model-Based_Tester_表紙](https://raw.githubusercontent.com/learnerjstqb/learnerjstqb.github.io/master/images/MBT_frontcover.png)
 
 
 いずれも[JSTQB® Advanced Level 非公式問題集 頒布サイト](https://learner-jstqb-al.booth.pm/items/1328072)にてお買い求めいただけます。
